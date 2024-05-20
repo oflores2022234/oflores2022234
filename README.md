@@ -9,7 +9,7 @@
   
 - 🌱 I am currently learning **React**
 
-- 🧑‍🎓 I am currently learning **React**.
+- 🧑‍🎓 I am studying at **Kinal**.
 
 - 📫 You can contact me at **ayllescas34@gmail.com**
 
