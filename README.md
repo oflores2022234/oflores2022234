@@ -7,9 +7,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I am currently learning **React**
+- 🌱 I am currently learning **NestJS**
 
-- 🧑‍🎓 I am studying at **Kinal**.
+- 🧑‍🎓 I am studying at **UMG**.
 
 - 📫 You can contact me at **ayllescas34@gmail.com**
 
