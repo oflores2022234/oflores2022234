@@ -8,11 +8,11 @@
 <td width="50%" align="left">
   
 - 🌱 Actualmente estoy aprendiendo **NestJS**
-- 
+  
 - 🎓 Soy estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez de Guatemala (UMG)**
-- 
+  
 - 💻 Me apasiona el desarrollo backend, el código limpio y crear soluciones útiles
-- 
+  
 - 🚀 Siempre con ganas de explorar nuevas tecnologías y crecer profesionalmente  
 
 - 📫 You can contact me at **ayllescas34@gmail.com**
